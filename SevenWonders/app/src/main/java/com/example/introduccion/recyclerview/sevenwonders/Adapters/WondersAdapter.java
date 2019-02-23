@@ -28,6 +28,7 @@ public class WondersAdapter extends RecyclerView.Adapter<WondersAdapter.ViewHold
         this.wonders = wonders;
     }
 
+
     @NonNull
     @Override
     public ViewHolder onCreateViewHolder(@NonNull ViewGroup viewGroup, int i) {
